@@ -21,3 +21,11 @@ Finally run the command
 ```bash
   python3 sorteio.py
 ```
+## Commands
+
+
+* /sorteio to create a draw with a test name!
+* /participar for participants to enter the giveaway.
+* /sortear + number of winners to raffle the winners who participated!
+* /fimsorteio to end the draw in the group, so that a new draw can be started!
+
